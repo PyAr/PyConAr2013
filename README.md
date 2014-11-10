@@ -1,11 +1,14 @@
-24 y 25 de Octubre, PyConAr 2013 @ Rosario!
-===========================================
+13, 14 y 15 de Noviembre, PyConAr 2014 @ Rafaela!
+=================================================
 
 
 Medios de comunicación:
 -----------------------
 
-Lista de correo:
-https://groups.google.com/forum/?hl=es#!forum/rosario-pyconar-2013
+Sitio oficial: http://pycon.com.ar
 
-IRC / irc.freenode.org #pyar
+IRC / irc.freenode.org #pyar (usuarios fisadev y arielrossanigo)
+
+MAIL a fisadev@gmail.com o arielrossanigo@gmail.com
+
+Twitter: @pyconar
